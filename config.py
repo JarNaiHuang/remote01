@@ -17,4 +17,4 @@ print(PATH)
 # C:\Users\Administrator\PycharmProjects\PO_practice\config.py
 
 print(__file__)
-# 输出：C:\Users\Administrator\PycharmProjects\PO_practice\config.py
+# 输出：C:\Users\Administ rator\PycharmProjects\PO_practice\config.py
